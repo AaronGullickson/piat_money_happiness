@@ -1,5 +1,5 @@
 ---
-title: "Full Report on [Name Research Project]"
+title: "Full Report on Income and Happiness"
 author: "Your name here"
 output: pdf_document
 ---

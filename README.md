@@ -1,17 +1,17 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Income and Happiness
 
-# Introduction
+## Introduction
 
 Throughout the the term, you will be working to build up an analysis of a specific research question, detailed below. You will complete several Putting It All Together assignments that ask you to analyze a dataset using the specific tools you have learned. For each assignment, you will report your results in a brief report. The ultimate goal of this set of assignments is a final complete research report on your specific research question. 
 
-## Research Topic: 
+## Research Topic: Income and Happiness
 
-Describe research topic
+We will use the General Social Survey to examine whether there is a relationship between a person's income and their happiness. We will also examine whether this relationship between a person's income and their happiness differs by gender. Specifically, we will address the following research questions:
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. What is the association between a person's self-reported level of happiness and their family income?
+2. Does this relationship between family income and happiness vary by gender?
 
 ## Technical Details
 
